@@ -31,9 +31,9 @@ Required libraries for Python along with their version numbers used while making
 
 <ul type="square">
 	<li>Python - 3.6.7</li>
-	<li>Numpy - 1.16.4</li>
-	<li>Tensorflow - 1.13.1</li>
-	<li>Keras - 2.2.4</li>
+	<li>Numpy - 1.17.4</li>
+	<li>Tensorflow - 1.15.0</li>
+	<li>Keras - 2.2.5</li>
 	<li>PIL - 4.3.0</li>
 	<li>tqdm - 4.28.1</li>
 </ul>
@@ -44,7 +44,7 @@ Required libraries for Python along with their version numbers used while making
 
 | Training parameters | Results |
 | :--- | :--- |
-| <ul><li></li></ul> | <img width="50%" src="https://github.com/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation/raw/master/result.jpg" alt="Result Image"> |
+| <ul><li>Number of models: 3</li><li>Epochs: 2</li><li>Batch size: 32</li><li>Validation set fraction: 0.5</li></ul> | <img width="50%" src="https://github.com/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation/raw/master/result.jpg" alt="Result Image"> |
 
 ## References
 
