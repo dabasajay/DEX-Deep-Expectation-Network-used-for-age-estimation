@@ -1,22 +1,9 @@
-# Project: DEX-Deep-Expectation-Network-used-for-age-estimation
+# Computer Vision Class Project: Deep EXpectation (DEX) Network used for age estimation
 
 [![Issues](https://img.shields.io/github/issues/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation.svg?color=%231155cc)](https://github.com/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation/issues)
 [![Forks](https://img.shields.io/github/forks/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation.svg?color=%231155cc)](https://github.com/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation/network)
 [![Stars](https://img.shields.io/github/stars/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation.svg?color=%231155cc)](https://github.com/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation/stargazers)
-[![Ajay Dabas](https://img.shields.io/badge/Ajay-Dabas-ff0000.svg)](https://dabasajay.github.io/)
-
-#### By:
-<p align="center">
-	
-|||
-|-|-|
-| <font size="2">Name</font> | <font size="4">Ajay Dabas</font> |
-| <font size="2">Roll Number</font> | <font size="4">2K17/SE/12</font> |
-| <font size="2">Branch</font> | <font size="4">Software Engineering</font> |
-| <font size="2">Subject</font> | <font size="4">Computer Vision</font> |
-| <font size="2">Faculty</font> | <font size="4">Dr. Rajiv Kapoor</font> |
-
-</p>
+[![Ajay Dabas](https://img.shields.io/badge/Ajay-Dabas-825ee4.svg)](https://dabasajay.github.io/)
 
 ## Table of Contents
 
