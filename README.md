@@ -44,7 +44,9 @@ Required libraries for Python along with their version numbers used while making
 
 | Training parameters | Results |
 | :--- | :--- |
-| <ul><li>Number of models: 3</li><li>Epochs: 2</li><li>Batch size: 32</li><li>Validation set fraction: 0.5</li></ul> | <img width="50%" src="https://github.com/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation/raw/master/result.jpg" alt="Result Image"> |
+| <ul><li>Number of models in the ensemble: 3</li><li>Epochs: 2</li><li>Batch size: 32</li><li>Validation set fraction: 0.5</li></ul><li>Number of layers(from last) of VGG19 that were finetuned: 1</li></ul> | <img width="50%" src="https://github.com/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation/raw/master/result.png" alt="Result Image"> |
+
+**You can get better results by tweaking the parameters mentioned above. I took simple and small parameters for demonstration only.**
 
 ## References
 
