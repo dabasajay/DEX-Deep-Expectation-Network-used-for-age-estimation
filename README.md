@@ -9,7 +9,7 @@
 
 1. [Summary](#Summary)
 2. [Requirements](#Requirements)
-3. [Results](#Results)
+3. [Training parameters and results](#training-parameters-and-results)
 4. [References](#References)
 
 
@@ -40,7 +40,11 @@ Required libraries for Python along with their version numbers used while making
 
 <strong>Dataset:</strong> <a href="https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar">Download link</a>
 
-## Results
+## Training parameters and results
+
+| Training parameters | Results |
+| :--- | :--- |
+| <ul><li></li></ul> | <img width="50%" src="https://github.com/dabasajay/DEX-Deep-Expectation-Network-used-for-age-estimation/raw/master/result.jpg" alt="Result Image"> |
 
 ## References
 
